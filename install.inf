@@ -1,0 +1,5 @@
+[info]
+title=Linter for Java, using javac
+desc=Linter for CudaLint, adds support for Java lexer, using "javac"
+type=cudatext-plugin
+subdir=cuda_lint_javac
